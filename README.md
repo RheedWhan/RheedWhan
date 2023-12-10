@@ -1,7 +1,7 @@
 Hi 👋 My name is Ridwan Ojo
 ===========================
 
-Data Scientist || Machine Learning Engineer || AI Innovator
+Data Scientist || Machine Learning Engineer || Mathematician
 -----------------------------------------------------------
 
 Dedicated to pushing the boundaries of artificial intelligence and machine learning. Proficient in developing and deploying machine learning models for real-world applications. Skilled in TensorFlow, PyTorch, and scikit-learn for model training and optimization. Passionate about creating intelligent systems that learn and adapt. Check out my repositories for hands-on projects. 🧠 Crafting intelligent algorithms for smarter solutions 🔧 Optimizing models for performance and scalability 🏗️ Building end-to-end machine learning pipelines 🌐 Exploring the frontiers of AI research Excited to collaborate on projects that leverage the power of machine learning to revolutionize industries. Let's build the future of AI together! 🤖✨
