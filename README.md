@@ -4,7 +4,7 @@ Hi 👋 My name is Ridwan Ojo
 Data Scientist || Machine Learning Engineer || Mathematician
 -----------------------------------------------------------
 
-Dedicated to pushing the boundaries of artificial intelligence and machine learning. Proficient in developing and deploying machine learning models for real-world applications. I am passionate about creating intelligent systems that learn and adapt.. 🧠 Crafting intelligent algorithms for smarter solutions 🔧 Optimizing models for performance and scalability 🏗️ Building end-to-end machine learning pipelines. Check out my repositories for hands-on projects. Exploring the frontiers of AI research and I am excited to collaborate on projects that leverage the power of machine learning to revolutionize industries. Let's build the future of AI together! 🤖✨
+Dedicated to pushing the boundaries of artificial intelligence and machine learning. Proficient in developing and deploying machine learning models for real-world applications. I am passionate about creating intelligent systems that learn and adapt... 🧠 Crafting intelligent algorithms for smarter solutions 🔧 Optimizing models for performance and scalability 🏗️ Building end-to-end machine learning pipelines. Check out my repositories for hands-on projects. Exploring the frontiers of AI research and I am excited to collaborate on projects that leverage the power of machine learning to revolutionize industries. Let's build the future of AI together! 🤖✨
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ojoridwan001@gmail.com](mailto:ojoridwan001@gmail.com)
