@@ -1,4 +1,4 @@
-Hello 👋 My name is Ridwan Ojo
+Hi 👋 My name is Ridwan Ojo
 ===========================
 
 Data Scientist || Machine Learning Engineer || Mathematician
